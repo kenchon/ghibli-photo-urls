@@ -17,7 +17,7 @@ def get_titlewise_url_list(base_url, title):
 if __name__ == "__main__":
 
     # Filepath to save
-    output_filepath = './ghibli-images.json'
+    output_filepath = './ghibli-photos.json'
 
     # Ghibli-specific values
     base_url = 'http://www.ghibli.jp/gallery'
